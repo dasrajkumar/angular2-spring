@@ -1,1 +1,1 @@
-Bookstore application
+Bookstore application - e-commerce application
